@@ -1,0 +1,12 @@
+#to create a program that greets you Good Morning,Good Afternoon or Good Evening with respect to real time
+import time
+x=time.localtime()
+y=time.strftime()
+if y>="24:00:00" and y<"12:00:00":
+    print("Good Morning")
+elif y>="12:00:00" and y<"17:00:00":
+    print("Good Afternoon")
+elif y>="17:00:00" and y<"24:00:00":
+    print("Good Evening")
+else:
+    print("Error")
