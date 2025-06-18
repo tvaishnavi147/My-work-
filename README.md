@@ -1,4 +1,3 @@
-# My-work-
 # to create a simple calculator
 x=float(input("Enter the first number:"))
 y=float(input("Enter the second number:"))
