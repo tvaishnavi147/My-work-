@@ -9,4 +9,4 @@ elif y>="12:00:00" and y<"17:00:00":
 elif y>="17:00:00" and y<"24:00:00":
     print("Good Evening")
 else:
-    print("Error")
+    print("Error in the program")
